@@ -1,11 +1,11 @@
 # GitHub-profile-Viewer
 # 🚀 GitHub Profile Viewer
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/github-profile-viewer?style=for-the-badge)
-![GitHub Contributors](https://img.shields.io/github/contributors/your-username/github-profile-viewer?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/github-profile-viewer?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/github-profile-viewer?style=for-the-badge)
-![License](https://img.shields.io/github/license/your-username/github-profile-viewer?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/bish9oi/github-profile-viewer?style=for-the-badge)
+![GitHub Contributors](https://img.shields.io/github/contributors/bish9oi/github-profile-viewer?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/bish9oi/github-profile-viewer?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/bish9oi/github-profile-viewer?style=for-the-badge)
+
 
 > A modern **GitHub Profile Viewer** that allows you to search for GitHub users, visualize their repositories, tech stacks, and contributions. Supports **Dark Mode** and uses **GitHub API** for fetching data.
 
@@ -28,7 +28,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F57846?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,13 +44,9 @@
    ```bash
    cd github-profile-viewer
    ```
-3. **Install Dependencies**
+3. **Run the Project**
    ```bash
-   npm install
-   ```
-4. **Run the Project**
-   ```bash
-   npm start
+   run use basic JS
    ```
 
 ---
@@ -60,7 +55,9 @@
 
 | 🌞 Light Mode | 🌙 Dark Mode |
 |--------------|--------------|
-| ![Light Mode](https://via.placeholder.com/500x300) | ![Dark Mode](https://via.placeholder.com/500x300) |
+ ![Screenshot (907)](https://github.com/user-attachments/assets/eaffa0b9-f9d2-4203-af25-b17c06d34ef7)
+ ![Screenshot (905)](https://github.com/user-attachments/assets/ea2a1239-dc69-49cd-a59c-c048d268df51)
+
 
 ---
 
@@ -76,15 +73,11 @@ Contributions are always welcome! Follow these steps:
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
-
----
 
 ## 📬 Contact
 
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [Your GitHub](https://github.com/your-username)  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-username)
+📧 **Email:** bishnoiravindra344@gmail.com 
+🔗 **GitHub:** (https://github.com/bish9oi)  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/ravindra-bishnoi-1601a125a/)
 
