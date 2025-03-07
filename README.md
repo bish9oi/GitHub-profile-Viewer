@@ -11,13 +11,20 @@
 
 ---
 
-## 🎯 Features
+🎯 Features
+
 ✅ Search GitHub Users & Fetch Profiles 🧑‍💻
+
 ✅ View Repositories with Stars & Forks ⭐
+
 ✅ Analyze Most Used Technologies 📊
+
 ✅ View Tech Stack (Libraries & Frameworks) 🔍
+
 ✅ Display GitHub Contributions (Last Year) 📅
+
 ✅ Dark Mode Support 🌙
+
 ✅ Fully Responsive UI 📱
 
 ---
@@ -53,9 +60,11 @@
 
 ## 📸 Screenshots
 
-| 🌞 Light Mode | 🌙 Dark Mode |
-|--------------|--------------|
+🌞 Light Mode 
+
  ![Screenshot (907)](https://github.com/user-attachments/assets/eaffa0b9-f9d2-4203-af25-b17c06d34ef7)
+
+ 🌙 Dark Mode 
  ![Screenshot (905)](https://github.com/user-attachments/assets/ea2a1239-dc69-49cd-a59c-c048d268df51)
 
 
