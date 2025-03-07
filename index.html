@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Profile Viewer</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>GitHub Profile Viewer</h1>
+      <button id="darkModeToggle">🌙 Dark Mode</button>
+      <div class="search-box">
+        <input
+          type="text"
+          id="username"
+          placeholder="Enter GitHub username..."
+        />
+        <button onclick="fetchProfile()">Search</button>
+      </div>
+      <div id="profile"></div>
+      <h2>Most Used Technologies</h2>
+      <canvas id="languageChart"></canvas>
+      <h2>Tech Stack</h2>
+      <div id="tech-stack"></div>
+      <h2>Repositories</h2>
+      <div id="repositories"></div>
+      <h2>GitHub Contributions (Last Year)</h2>
+      <div id="contributions"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
